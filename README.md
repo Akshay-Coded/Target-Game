@@ -34,9 +34,11 @@ Simply run the target_game.py script to start the game. You can quit the game at
     - et_middle(surface): Returns the x-coordinate to center the given surface.
     - main(): Main game loop.
 
-#### Screenshot
-!(gameplay.png)
-!(end-screwwn.png)
+### Screenshot
+##### gameplay :
+![game](gameplay.png)
+#### end screen:
+![end](end-screen.png)
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
 

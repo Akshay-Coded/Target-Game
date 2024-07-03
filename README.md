@@ -35,8 +35,8 @@ Simply run the target_game.py script to start the game. You can quit the game at
     - main(): Main game loop.
 
 #### Screenshot
-![gameplay.png]
-![end-screwwn.png]
+!(gameplay.png)
+!(end-screwwn.png)
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
